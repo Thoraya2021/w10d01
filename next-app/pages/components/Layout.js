@@ -1,5 +1,5 @@
 import Nav from "./Navbar";
-import Posts from "./Post/Post";
+import Posts from "../Posts";
 const Layout = ({childern}) => {
     return (  
 <>
